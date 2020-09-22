@@ -14,9 +14,10 @@
 * 3 ketchup
 * 4 mayonaise
 * 5 pickles
-* 3 mayonaise
-* 3 mayonaise
-* 3 mayonaise
+* 3 HAMBURGER
+* 3 HAMBURGER
+* 3 HAMBURGER
+ 
 
 
 
